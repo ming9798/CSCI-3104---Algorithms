@@ -1,0 +1,13 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Instructions}{1}{section.1}%
+\contentsline {section}{\numberline {2}Honor Code (Make Sure to Virtually Sign)}{2}{section.2}%
+\contentsline {section}{\numberline {3}Standard 5- BFS and DFS}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Problem \ref {DFS1}}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Problem \ref {DFS2}}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Problem \ref {DFS4}}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Standard 6- Dijkstra's Algorithm}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Problem \ref {Dijkstra0}}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Problem \ref {Dijkstra2}}{8}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Problem 6\ref {Dijkstra2a}}{8}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Problem 6\ref {Dijkstra2b}}{9}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Problem 6\ref {Dijkstra2c}}{10}{subsubsection.4.2.3}%

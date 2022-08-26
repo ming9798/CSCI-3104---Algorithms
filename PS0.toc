@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Instructions}{1}{section.1}%
+\contentsline {section}{\numberline {2}Honor Code (Make Sure to Virtually Sign)}{2}{section.2}%
+\contentsline {section}{\numberline {3}\LaTeX \ Intro}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Problem \ref {Latex1}}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Problem \ref {Latex2}}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Problem \ref {Latex3}}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Problem \ref {Latex4}}{6}{subsection.3.4}%
